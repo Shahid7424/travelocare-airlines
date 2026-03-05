@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useState, useEffect, memo } from "react";
-import { FooterLogo, Logo, PCCiIcon } from "../utils/images";
+import { Logo, PCCiIcon } from "../utils/images";
 
 const Header = () => {
   const [collapsed, setCollapsed] = useState(true);
