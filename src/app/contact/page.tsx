@@ -1,4 +1,3 @@
-// components/Contact.js
 "use client";
 import React from "react";
 import { useFormik } from "formik";
@@ -55,15 +54,13 @@ const Contact = () => {
                 <div className="col-12 col-lg-6 mb-4 mb-lg-0">
                   <div className="map-container rounded-lg">
                     {/* Replace with your map component or iframe */}
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.163605427437!2d-77.73485629999999!3d39.646032399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9ed5ac0b9c957%3A0x1fdec20a030709e8!2s30%20Summer%20St%2C%20Hagerstown%2C%20MD%2021740%2C%20USA!5e0!3m2!1sen!2sin!4v1723813222663!5m2!1sen!2sin"
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.9044748527463!2d-106.94323151635325!3d44.78275277176496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5335f1770937b28d%3A0x38aabd600a7d02ad!2s1309%20Coffeen%20Ave!5e0!3m2!1sen!2sin!4v1773206702176!5m2!1sen!2sin"
                      width="100%"
                       height="475"
                       style={{ border:0 }} 
                        loading="lazy"
                        referrerPolicy="no-referrer-when-downgrade">
                         </iframe>
-                     
-
                   </div>
                 </div>
 

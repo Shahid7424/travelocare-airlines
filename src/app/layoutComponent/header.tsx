@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useState, useEffect, memo } from "react";
-import { Logo, PCCiIcon } from "../utils/images";
+import { Logo2, PCCiIcon } from "../utils/images";
 
 const Header = () => {
   const [collapsed, setCollapsed] = useState(true);
@@ -34,14 +34,16 @@ const Header = () => {
     >
       <div className="container">
         <nav className="navbar navbar-expand-lg py-3 py-lg-0 px-0">
-          <Link href="/" className="navbar-brand py-3">
-            <Image
-              src={Logo}
-              alt="reservationkart-flight booking app"
-              className="img-fluid me-2"
-              height={50}
-              width={100}
-            />
+       <Link href="/" className="navbar-brand py-2">
+  <Image
+    src={Logo2}
+    alt="Travelocare flight booking"
+    height={70}
+    width={180}
+    className="me-2"
+  />
+
+
             {/* <Image
               src={FooterLogo}
               alt="airoplan ticket booking"
@@ -85,11 +87,11 @@ const Header = () => {
                 </Link>
               </li>
               <Link
-                href="tel:1888 5087143"
+                href="tel:+16176694209"
                 className="d-flex flex-row justify-content-center align-items-center gap-2 fw-bold nav-item pe-4 text-yellow"
               >
                 <i className="bi bi-telephone"></i>
-                <div>1888 5087143</div>
+                <div>16176694209</div>
               </Link>
               <div className="img-fluid d-flex justify-content-center align-items-center">
                 {/* <Link href="/compliance_certificate.pdf" target="_blank">

@@ -36,11 +36,11 @@ const CallModal: React.FC<Modalprops> = ({ show, handleClose, setShow, ispath = 
                   Flight Reservations,<br /> Cancellations, <br />Modifications & Assistance
                 </p>
                 <Image
-                  alt='reservationakrt.com'
+                  alt='travelocare.com'
                   src={CallSupport}
                   className="img-fluid d-block m-auto mb-3 rounded-circle" />
                   <br/>
-                <Link href="tel:1888 5087143" className="btn mb-2 text-link text-link-effect border py-2">
+                <Link href="tel:16176694209" className="btn mb-2 text-link text-link-effect border py-2">
                   <span className="text-light p-2 fs-6">
                     <i className="bi bi-telephone me-1 fs-6"></i>Click to call
                   </span>
@@ -48,7 +48,7 @@ const CallModal: React.FC<Modalprops> = ({ show, handleClose, setShow, ispath = 
                 <br/>
                 <Link href="tel:1888 5087143" className="mb-3 d-inline-block text-link text-link-effect">
                   <span className="text-light py-2 p-lg-2 fs-4">
-                    <i className="bi bi-telephone me-2 fs-4"></i>1888 5087143</span>
+                    <i className="bi bi-telephone me-2 fs-4"></i>16176694209</span>
                 </Link>
                 <p className=" theme-text-white mb-4 ">Save Extra <span className="text-warning fs-5">25% Off </span>
                   On<br /> Your First Purchase <br />Exclusive Phone Only Deals </p>

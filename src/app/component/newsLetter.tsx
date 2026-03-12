@@ -78,7 +78,7 @@ const NewsLetter: React.FC = () => {
                     placeholder="Enter email"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    aria-label="reservationkart"
+                    aria-label="travelocare"
                   />
                   <button
                     style={{ background: '#ec7e1b' }}

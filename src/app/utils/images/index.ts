@@ -19,8 +19,9 @@ import CallSupport from './icons/support-popup.webp'
 
 
 import Logo from "./logo/travelocare-logo.png";
+import Logo2 from "./logo/travelo-logo.png"
 
-import FooterLogo from "./logo/NameKart - Logo.png";
+// import FooterLogo from "./logo/NameKart - Logo.png";
 import AboutusImg1 from "./about-us/about1.jpg";
 import AboutusImg2 from "./about-us/about3.jpg";
 //Landing Page//
@@ -36,7 +37,7 @@ import TestimonialImage1 from "./landing/testimonial1.png";
 import TestimonialImage2 from "./landing/testimonial2.png";
 import TestimonialImage3 from "./landing/testimonial3.png";
 import OffersBg from './landing/offer-bg.jpg'
-
+import FooterLogo from "./logo/travelocare-logo.png"
 
 // features//
 import AbuDhaabiImg from "./Features/abu-dhabi-img.jpg"
@@ -81,7 +82,9 @@ export {
   SubscribeIcon,
   AppleIcon,
   Logo,
+  Logo2,
   // FooterLogo,
+  FooterLogo,
   PCCiIcon,
   AboutusImg1,
   AboutusImg2,

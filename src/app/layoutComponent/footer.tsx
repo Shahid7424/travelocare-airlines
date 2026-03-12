@@ -4,8 +4,8 @@ import Link from "next/link";
 import { useState, useEffect, FormEvent, memo } from "react";
 
 import {
-  SubscribeIcon,
   FooterLogo,
+  SubscribeIcon,
   paymentMethod1,
 } from "../utils/images";
 
@@ -111,7 +111,7 @@ const Footer = () => {
               <div className="flex-grow-1">
                 Location <br />
                 <address className="text-muted">
-                  30 Summer St, Hagerstown, Maryland 21740 USA.
+                  Principal Place of Business 1309 Coffeen Avenue STE 19309 Sheridan Wyoming 82801 USA.
                 </address>
               </div>
               <div className="flex-grow-1">
@@ -121,7 +121,7 @@ const Footer = () => {
                   className="fs-5 theme-text-primary"
                   href={"tel:1888 5087143"}
                 >
-                1888 5087143
+                +1 6176694209
                 </Link>
               </div>
               <div className="flex-grow-1 mt-3">
@@ -131,7 +131,7 @@ const Footer = () => {
                   href={"mail:info@Reservationkart.com"}
                   className="fs-5 theme-text-primary"
                 >
-                  info@reservationkart.com
+                  info@travelocare.com
                 </Link>
               </div>
               <div className="d-flex social  mt-2">
@@ -203,7 +203,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-12 col-lg-6 mt-lg-5">
               <p className="pt-2 mb-0 small theme-text-accent-one">
-                &copy; 2024 Reservationkart.com All rights reserved.
+                &copy; 2026 All Travelocare.com rights reserved.
               </p>
             </div>
             <div className="col-12 col-lg-6 mt-5">

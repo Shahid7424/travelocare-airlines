@@ -12,14 +12,14 @@ const Policy = () => {
 
       <div className="responBx">
         <h6 className='sub-heading'>This Privacy Policy was last updated on 12th May 2024.</h6>
-        <p>ReservationKart Online Limited, including all legal entities under the ReservationKart group
-          (hereafter referred to as &quot;ReservationKart&quot; or &quot;we&quot;) with an exception of ReservationKart
+        <p>Travelocare Online Limited, including all legal entities under the Travelocare group
+          (hereafter referred to as &quot;Travelocare&quot; or &quot;we&quot;) with an exception of Travelocare
           Online Freight Services Private Limited (YOFSPLL), respects your (customers - hereafter referred as &quot;you&quot;
           or &quot;user&quot;) privacy and values our
-          relationship with our business partners, clients, third parties having contractual relationship with ReservationKart
+          relationship with our business partners, clients, third parties having contractual relationship with Travelocare
           (hereafter referred to as &quot;third party&quot; or &quot;service provider&quot;),
           and any party who purchases/intend to purchase/inquire about any product(s) and/or service(s) made available by
-          ReservationKart through any of ReservationKart&apos;s customer interface channels including Website, mobile site,
+          Travelocare through any of Travelocare&apos;s customer interface channels including Website, mobile site,
           mobile app &
           offline channels including call centers and offices (collectively referred herein as &quot;Sales Channels&quot;).
           We are committed to protecting your personally identifiable information
@@ -30,9 +30,9 @@ const Policy = () => {
           Channel.
           This policy outlines the types of personal information collected on our Website, how this data is used/processed and
           safeguarded as well as how users may exercise their rights with respect to personal information.</p>
-        <p>This Privacy Policy applies to ReservationKart.com, ReservationKart company pages, communications and services
+        <p>This Privacy Policy applies to Travelocare.com, Travelocare company pages, communications and services
           (&quot;Services&quot;), including off-site Services, such as our email services, customer care and support services
-          and the &quot;Contact us&quot;; &quot;Apply with ReservationKart&quot; and &quot;Share on&quot; plugins on our digital
+          and the &quot;Contact us&quot;; &quot;Apply with Travelocare&quot; and &quot;Share on&quot; plugins on our digital
           properties.
         </p>
         
@@ -40,7 +40,7 @@ const Policy = () => {
           Policy and the contents herein.</p>
         <p>This Privacy Policy does not apply to any website(s), mobile sites and mobile apps of third parties, even if their
           websites/products are linked to our Website. User should take note that the information and privacy practices of
-          ReservationKart&apos;s business partners, advertisers, sponsors or other sites to which we provide hyperlink(s),
+          Travelocare&apos;s business partners, advertisers, sponsors or other sites to which we provide hyperlink(s),
           may be materially different from this Privacy Policy. Accordingly, it is recommended that you review the privacy
           statements and policies of any such third parties.</p>
 
@@ -58,12 +58,12 @@ Our Website hosting partners comply with industry-recognized security standards 
 Limitations of Liability. 
 While we take data security seriously and partner with reputable providers, we cannot be held liable for any data theft or security breaches that may occur at the data center hosting our website.</p>
 
-        <p><b>ReservationKart for Business (Corporate):</b> In the event ReservationKart is providing services to you as part
+        <p><b>Travelocare for Business (Corporate):</b> In the event Travelocare is providing services to you as part
           of our agreement with your employer, contractor, business partner, affiliate or any other party who is having a
-          contractual arrangement with ReservationKart, then the terms and conditions stipulated in such contractual arrangement
+          contractual arrangement with Travelocare, then the terms and conditions stipulated in such contractual arrangement
           shall prevail over this data privacy policy. Such agreement may involve sharing personal data they control as part of
           that engagement. Our services may also include processing personal data under our client&apos;s control on our hosted
-          software applications. All such processing will be governed by ReservationKart&apos;s client privacy policy.</p>
+          software applications. All such processing will be governed by Travelocare&apos;s client privacy policy.</p>
 
         <p>In case you book travel services on behalf of your family or a minor, you agree:</p>
         <ul className="ml-4">
@@ -73,7 +73,7 @@ While we take data security seriously and partner with reputable providers, we c
             requirements
           </li>
         </ul>
-        <p>In such a scenario, ReservationKart will be acting as data processors while your respective employer, contractor,
+        <p>In such a scenario, Travelocare will be acting as data processors while your respective employer, contractor,
           business partner, affiliate shall be acting as the data controller. It will be the obligation of the data controller
           to seek consent of the end customer.</p>
         <p><b>1. What Personal Data shall we collect?</b></p>
@@ -89,8 +89,8 @@ While we take data security seriously and partner with reputable providers, we c
           <li>Family details/information (for example, your marital status and dependents)</li>
           <li>Employment and education details (for example, the organization you work for, your job title and your education details)</li>
           <li>Financial and tax-related information (like your income, investments and tax residency)</li>
-          <li>Postings or messages on any blogs, forums, platforms, wikis or social media applications of ReservationKart and
-            ReservationKart&apos;s third parties</li>
+          <li>Postings or messages on any blogs, forums, platforms, wikis or social media applications of Travelocare and
+            Travelocare&apos;s third parties</li>
           <li>IP address, browser type and language, your access times</li>
           <li>Information in any complaints you make</li>
           <li>Details of how you use our products and services</li>

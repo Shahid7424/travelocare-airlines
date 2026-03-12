@@ -26,12 +26,12 @@ const About = () => {
                 <div className="row">
                   <div className="col-12 text-center mb-3">
                     <h4 className="fs-2 fw-bold theme-text-secondary mb-0">
-                      Welcome to ReservationKart.com !
+                      Welcome to Travelocare.com!
                     </h4>
                   </div>
                 </div>
                 <p className="theme-text-accent-one p-0 font-normal text-base max-w-440 text-center text-md-start">
-                  Welcome to reservationkart.com, your ultimate destination for
+                  Welcome to Travelocare.com, your ultimate destination for
                   effortless and affordable travel solutions. As a leading cheap
                   flight agency, we specialize in providing budget friendly
                   options for all your travel needs, from airplane reservations

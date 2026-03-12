@@ -59,7 +59,7 @@ const Offers = () => {
                 <h1>Travel Smart, Travel Far</h1>
                 <p>
                   {" "}
-                  From booking to boarding, Reservationkart.com is here to make
+                  From booking to boarding, Travelocare.com is here to make
                   your journey effortless.
                 </p>
                 <form onSubmit={handleSubmit}>
@@ -263,7 +263,7 @@ const Offers = () => {
         <div className="section__container my-2">
           <div className="row">
             <div className="col-md-6">
-              <Image src={LandingServices} className="img-fluid" alt="reservationkart.com" />
+              <Image src={LandingServices} className="img-fluid" alt="travelocare.com" />
             </div>
             <div className="col-md-6 d-flex align-items-center">
               <div className="row">
